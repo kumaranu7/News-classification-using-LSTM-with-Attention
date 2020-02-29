@@ -7,3 +7,4 @@
 - Further used Bidirectional GRU with Convolution, Obtained higher accuracy.
 - Used LSTM with Attention model, predictions with Attention model, confusion matrix
 - Evaluating accuracy, Applied ensemble learning.
+- Increased accuracy from 58% to 65% during this period.
